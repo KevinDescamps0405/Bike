@@ -21,7 +21,7 @@ import { ViewRegistrationComponent } from './components/view-registration/view-r
     BrowserModule,
     HttpClientModule,
     AppRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ],
   providers: [BikeService],
   bootstrap: [AppComponent]
